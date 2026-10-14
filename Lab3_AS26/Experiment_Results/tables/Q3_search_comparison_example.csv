@@ -1,0 +1,5 @@
+n,binary_absent_key_comparisons,ternary_absent_key_comparisons
+10,3,4
+100,6,8
+1000,9,12
+10000,13,18
