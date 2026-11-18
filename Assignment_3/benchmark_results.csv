@@ -1,0 +1,22 @@
+Data Type,List Size,Basic Time,Basic Status,Improved Time,Improved Status
+Random,1000,0.000886791996890679,Success,0.0011361669894540682,Success
+Already sorted,1000,,RecursionError,0.0011590000067371875,Success
+Many duplicates,1000,0.004297291001421399,Success,0.0002947920002043247,Success
+Random,2000,0.00207333400612697,Success,0.0025999580102507025,Success
+Already sorted,2000,,RecursionError,0.0024425000010523945,Success
+Many duplicates,2000,0.016528124993783422,Success,0.0006406250031432137,Success
+Random,4000,0.004633665987057611,Success,0.0059853749989997596,Success
+Already sorted,4000,,RecursionError,0.005899875002796762,Success
+Many duplicates,4000,0.06507895899994764,Success,0.0012633330043172464,Success
+Random,8000,0.009762792004039511,Success,0.013233999998192303,Success
+Already sorted,8000,,RecursionError,0.013584041997091845,Success
+Many duplicates,8000,0.2658255830028793,Success,0.0025104579981416464,Success
+Random,16000,0.021429375003208406,Success,0.029670874995645136,Success
+Already sorted,16000,,RecursionError,0.028452583006583154,Success
+Many duplicates,16000,,RecursionError,0.004964084000675939,Success
+Random,32000,0.0441776670049876,Success,0.06383720799931325,Success
+Already sorted,32000,,RecursionError,0.060524625005200505,Success
+Many duplicates,32000,,RecursionError,0.011208584008272737,Success
+Random,64000,0.09394025000801776,Success,0.13613612500193994,Success
+Already sorted,64000,,RecursionError,0.12434904200199526,Success
+Many duplicates,64000,,RecursionError,0.021323082997696474,Success
