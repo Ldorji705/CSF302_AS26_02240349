@@ -59,8 +59,6 @@ Its time complexity is:
 
 Both algorithms were executed using the sample coordinates given in the assignment.
 
-[Insert Screenshot 1 – Part A Output]
-
 Both algorithms returned the same closest distance and indices.
 
 ---
@@ -80,7 +78,6 @@ The following cases were tested:
 
 The results from divide and conquer were compared with brute force to check correctness.
 
-[Insert Screenshot 2 – Passing Tests]
 
 All six test methods passed successfully.
 
@@ -122,7 +119,6 @@ Both algorithms were measured using different input sizes on my computer.
 
 ### 4.4 Log-Log Graph
 
-[Insert Screenshot 3 – Benchmark Graph]
 
 The graph compares the running times of both algorithms. The results show how the running time changes as the number of points increases.
 
